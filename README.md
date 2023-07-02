@@ -1,2 +1,4 @@
 # StreamSage
 A comprehensive database that allows users to search movies, shows, and more across multiple OTT platforms, while leveraging advanced search criteria like name, genre, IMDb rating, showcasing platform/s ,ensuring the perfect viewing experience every time.
+
+StreamSage is a database-driven project designed to enhance the way we discover and access movies, shows, and more. With an extensive collection of titles from various platforms, StreamSage acts as the ultimate guide for entertainment enthusiasts. Its intuitive search functionality enables users to explore content based on a wide range of criteria, including name, genre, rating and showcasing platform. Whether you're in the mood for an action-packed blockbuster, a heartwarming romance, or a critically acclaimed series, StreamSage ensures you find the perfect match. Say goodbye to endless scrolling and hello to an immersive streaming experience with StreamSage at your fingertips.
